@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Warm clay soil / base curve -->
+    <path
+        android:fillColor="#C86D51"
+        android:pathData="M36,74 C42,78 66,78 72,74 C68,79 40,79 36,74 Z" />
+
+    <!-- Sprouting stem in soft sage -->
+    <path
+        android:fillColor="#A3B18A"
+        android:pathData="M52,72 C52,58 53,46 54,36 C55,46 56,58 56,72 Z" />
+
+    <!-- Left leaf in soft sage -->
+    <path
+        android:fillColor="#A3B18A"
+        android:pathData="M53,52 C45,46 36,50 34,58 C42,60 50,56 53,52 Z" />
+
+    <!-- Right leaf in vibrant sage / warm clay accent -->
+    <path
+        android:fillColor="#D8A47F"
+        android:pathData="M55,44 C63,38 72,42 74,50 C66,52 58,48 55,44 Z" />
+
+    <!-- Top golden-warm clay coin representing wealth flourishing -->
+    <path
+        android:fillColor="#E09F67"
+        android:pathData="M54,26 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0" />
+    <path
+        android:fillColor="#F4F1DE"
+        android:pathData="M54,26 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+
+    <!-- Naira currency sign styled inside coin -->
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M51.5,22 L53,22 L55.5,27 L55.5,22 L56.5,22 L56.5,30 L55,30 L52.5,25 L52.5,30 L51.5,30 Z" />
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M50.5,25.2 L57.5,25.2 L57.5,26 L50.5,26 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Wealth Habits",
+  "description": "Personal finance literacy app turning Nigerian bank alerts and transactions into warm, plain-language insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
